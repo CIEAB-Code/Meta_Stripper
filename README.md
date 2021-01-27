@@ -7,7 +7,7 @@ Welcome to remove exif! This simple Python 3.8 script clears all exif data from 
 
 # Installation 
 1. pip install piexif
-2. git clone https://github.com/CIEAB-Code/remove_exif.git
+2. git clone https://github.com/CIEAB-Code/Meta_Stripper.git
 3. unpack folder
 4. At commadline run: python remove.py -d {PATH TO DIRECTORY CONTAINING JPEG FILES}
 
