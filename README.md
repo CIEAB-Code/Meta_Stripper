@@ -1,5 +1,5 @@
 # remove_exif
-Welcome to remove exif! This simple Python 3.8 script clears all exif data from JPEG image files using piexif. 
+Welcome to Meta Stripper! This simple Python 3.8 script clears all exif data from JPEG image files using piexif. 
 
 # Dependencies
 - Python 3.x
